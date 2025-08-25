@@ -13,7 +13,7 @@ Puedes ver y descargar el archivo de Power BI desde este enlace:
 - Power BI
 - Git/GitHub
 
-## 📂 Contenido del repositorio
-- `data/` → (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
-- `notebooks/` → notebooks de análisis y limpieza.  
-- `README.md` → documentación del proyecto. 
+## 📂 Datos Utilizados
+
+(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
+
