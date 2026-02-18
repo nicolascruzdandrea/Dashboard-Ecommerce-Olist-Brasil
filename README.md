@@ -13,7 +13,7 @@ Modelo predictivo de machine learning para estimar la cancelación de pedidos.
 ## 📊 Dashboard
 
 Puedes ver y descargar el archivo de Power BI desde este enlace:  
-👉 [Descargar Dashboard (.pbix)] (https://drive.google.com/file/d/1vhjO1IEagj2ECNJfe_ey8F20yPGsfaAA/view?usp=sharing)
+👉 [Descargar Dashboard (.pbix)] (https://drive.google.com/drive/folders/1yncgcIeuXv-lDbW5GirehvOkP6eny-5v?usp=drive_link)
 
 ## 🤖 Modelo de Machine Learning
 
